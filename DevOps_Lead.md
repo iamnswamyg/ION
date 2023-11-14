@@ -1,4 +1,4 @@
-Can you list out DevOps Team Leader qualities and also important interview questions I have to prepare for?
+Can you list out DevOps Team Leader qualities?
 
 ------------------
 **Qualities of a DevOps Team Leader:**
